@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mahtab Ranjbar</h1>
+# Mahtab Ranjbar
 
-- 🌱 I’m currently a computer science student, focusing on **computer vision** concepts.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMahtabRanjbar%2FMahtabRanjbar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Mahtab_rnj)](https://twitter.com/Mahtab_rnj)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahtabranjbar/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mahtab_rnj/)](https://www.instagram.com/mahtab_rnj)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mahtabranjbar93@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mahtabranjbar.github.io)](https://mahtabranjbar.github.io)
+[![Github](https://img.shields.io/github/followers/MahtabRanjbar?label=Follow&style=social)](https://github.com/MahtabRanjbar)
 
-- 🔬 I'm particularly interested in the application of computer vision in the field of **medical diagnosis**.
-
-- 💡 I'm exploring self-supervised learning models and their usage in computer vision tasks.
-
-- 🌄 I have a keen interest in **medical imaging** and its advancements.
-
-- 👨‍💻 All of my projects are available at [https://github.com/MahtabRanjbar](https://github.com/MahtabRanjbar)
-
-- 💬 Ask me about **python, machine learning, computer vision**
-
-- 📫 How to reach me: **mahtabranjbar93@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahtabranjbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahtabranjbar" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahtabranjbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahtabranjbar" height="30" width="40" /></a>
-<a href="https://instagram.com/mahtab_rnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahtab_rnj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahtabranjbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahtabranjbar" height="30" width="40" />linkedin</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💻  I’m currently a Computer Science student, focusing on computer vision concepts.
+- 🔬 I'm particularly interested in the application of computer vision in the field of medical diagnosis.
+- 🌱 I am also associate member in [Pytopia](https://www.pytopia.ai), a machine learning community.
+- 📫 How to reach me: mahtabranjbar93@@gmail.com
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahtabranjbar&" alt="mahtabranjbar" /></p>
+### 🖥 Skills
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-plotly-05122A?style=flat-square&logo=plotly&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-seaborn-05122A?style=flat-square&logo=seaborn&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat-square&logo=git&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=4a4747)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahtabRanjbar&show_icons=true&locale=en&layout=compact" alt="MahtabRanjbar" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=MahtabRanjbar&" alt="MahtabRanjbar" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
