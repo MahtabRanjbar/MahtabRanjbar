@@ -19,6 +19,8 @@
 - Deep Learning
 - Computer Vision
 - LLMs
+- Data Science
+- Data analysis 
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-plotly-05122A?style=flat-square&logo=plotly&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-seaborn-05122A?style=flat-square&logo=seaborn&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat-square&logo=git&color=4a4747) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=4a4747)
